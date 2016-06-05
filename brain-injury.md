@@ -119,3 +119,11 @@ the brain through different kinds of tasks to see how well you
 perform. Once testing is completed, the tests are scored, interpreted,
 and a detailed report is written that can be shared with any of your
 physicians or with your school.
+
+#### Brain Injury Resources
+* [Brain Injury Association USA](http://www.biausa.org)
+* [Brain Injury Association of Georgia (BIAG)](http://www.braininjurygeorgia.org)
+* [Brain Injury Resource Foundation](http://www.birf.info)
+* [Brain Injury Peer Visitor Program](http://www.braininjurypeervisitor.org)
+* [Blog of TBI Warrior](http://www.tbiwarriors.blogspot.com/)
+* [CDC Online Concussion Training](http://www.cdc.gov/headsup/youthsports/training/index.html)
