@@ -43,3 +43,10 @@ concern that your thinking skills are not as good as they once were,
 and you are worried that the changes are not just a part of normal
 aging, then you may want to ask us about neuropsychological
 testing. If you would like to set an appointment contact our office.
+
+#### Dementia Resources
+* [Alzheimer’s Association](http://www.alz.org)
+* [National Parkinson Foundation](http://www.parkinson.org)
+* [National Institute of Neurological Disorders and Stroke](http://www.ninds.nih.gov/)
+* [National Stroke Association](http://www.stroke.org)
+* [American Stroke Association](http://www.strokeassociation.org)
