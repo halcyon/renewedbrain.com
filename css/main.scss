@@ -51,3 +51,15 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+.about-dr-lacy {
+  img {
+    float: left;
+    clear: right;
+    margin-right: .5em;
+  }
+  .clear {
+    clear: both;
+    margin-bottom: 1em;
+  }
+}
