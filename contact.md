@@ -13,7 +13,7 @@ weight: 5
 * Neuropsychological and behavioral medicine services are offered to adults and adolescents
 * Psychotherapy for psychiatric disorders is offered to individuals age 16 and older
 
-## Provider
+## Insurance
 * Medicare
 * Tricare
 
