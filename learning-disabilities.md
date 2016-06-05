@@ -85,3 +85,6 @@ other accommodations needed to optimize learning. Testing must be
 current to obtain Learning Center services. For more information on
 learning disabilities and testing for ADHD for teens and adults,
 contact our office.
+
+### Learning Disabilities Resources
+* [The Regents Center for Learning Disorders](http://www2.gsu.edu/~wwwrld/)
