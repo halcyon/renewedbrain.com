@@ -40,4 +40,14 @@ anger management, low self-esteem, communication issues, stress
 management, adjustment to life transitions, and management of chronic
 medical conditions.
 
-For more information on these services, please contact our office.
+Dr. Lacy strives to privde accurate and objective assessments of brain
+disorders with practical recommendations so that the patient receives
+the best possible treatment to meet their needs. Dr. Lacy believes in
+working with all members of the patient's support system to work
+twoard maximizing an individual's ability to function on a daily
+basis. Collaboration with treating physicians and case managers is the
+key to providing continuity of care. Education and support for family
+members helps to improve understanding and management of the changes
+that accompany injury and illness. All aspects of a person's life are
+addressed in treatment, including physical, emotional, mental and
+spiritual issues.

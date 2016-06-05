@@ -16,4 +16,3 @@ weight: 5
 ## Provider
 * Medicare
 * Tricare
-* BC BS PPO
