@@ -5,6 +5,8 @@ permalink: /brain-injury/
 weight: 2
 ---
 
+![Man suffering from a brain injury](../images/brain-injury-man.png)
+
 >"He just doesn’t seem to be the same person. He forgets things, has
 >problems following a conversation, and he loses his temper more
 >easily. He can not tolerate noise or too many things going on at

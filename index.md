@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="about-dr-lacy">
-  <img src="images/rachellacy.jpg">
+  <img src="images/rachel-lacy.jpg">
   <p>
     Dr. Lacy is a licensed psychologist trained in working with people
     who have acquired brain injuries, chronic pain, chronic medical
