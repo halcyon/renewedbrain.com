@@ -33,3 +33,7 @@ of the American Psychological Association, National Academy of
 Neuropsychology, International Neuropsychological Society, American
 Academy of Pain Management, and National Register of Health Service
 Providers.
+
+#### National Register of Health Service Providers
+* [National Register](http://www.nationalregister.org)
+* [Find a Psychologist](http://www.findapsychologist.org)
