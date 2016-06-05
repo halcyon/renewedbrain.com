@@ -5,6 +5,14 @@ permalink: /brain-injury/
 weight: 2
 ---
 
+>"He just doesn’t seem to be the same person. He forgets things, has
+>problems following a conversation, and he loses his temper more
+>easily. He can not tolerate noise or too many things going on at
+>once. His sleeping and eating habits have changed. It takes him much
+>longer to figure out something or finish doing something than it used
+>to. I have to remind him to do almost everything. He seems to have
+>trouble paying attention and he has not been able to return to work."
+
 Brain injury can occur during an automobile accident, work related
 accident, military combat, electrocution, or any kind of trauma to the
 head such as a concussion. When brain injuries occur because of an
