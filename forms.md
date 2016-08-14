@@ -12,8 +12,8 @@ weight: 6
 ## Questionnaires
 * [Adult Questionnaire](adult-questionnaire.pdf)
 * [Adult Questionnaire Relative](adult-questionnaire-relative.pdf)
-* [Child Questionnaire for Parents](child-questionnaire-for-parents.pdf)
-* [Child Questionnaire Self Report](child-questionnaire-self-report.pdf)
+* [Teen Questionnaire for Parents](teen-questionnaire-for-parents.pdf)
+* [Teen Questionnaire Self Report](teen-questionnaire-self-report.pdf)
 
 ## Release
 * [Release of Information](release-of-information.pdf)
