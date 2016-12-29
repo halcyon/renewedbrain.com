@@ -2,7 +2,7 @@
 layout: page
 title: Forms
 permalink: /forms/
-weight: 6
+weight: 7
 ---
 ## New Patients
 * [Service Agreement](service-agreement.pdf)
