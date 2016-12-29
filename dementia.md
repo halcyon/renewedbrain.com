@@ -48,4 +48,4 @@ testing. If you would like to set an appointment contact our office.
 * [National Institute of Neurological Disorders and Stroke](http://www.ninds.nih.gov/)
 * [National Stroke Association](http://www.stroke.org)
 * [American Stroke Association](http://www.strokeassociation.org)
-* [The Association for Frontotemporal Degeneration] (http://www.theaftd.org/)
+* [The Association for Frontotemporal Degeneration](http://www.theaftd.org/)
