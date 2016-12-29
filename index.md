@@ -13,7 +13,7 @@ layout: default
 </div>
 
 
-## Clinical Neuropsychology
+## Neuropsychology
 
 ### Neuropsychology
 * Neuropsychological Evaluations, including:
