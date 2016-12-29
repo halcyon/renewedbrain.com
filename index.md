@@ -6,14 +6,14 @@ layout: default
   <img src="images/rachel-lacy.jpg">
   <p>
     Dr. Lacy is a licensed psychologist, board certified in clinical neuropsychology. She is trained in working
-    with people who have acquired brain injuries, dementia, learning disabilities, ADHD, chronic pain,
+    with people who have acquired brain injuries, ADHD, learning disabilities, dementia, chronic pain,
     chronic medical conditions, and various psychological disorders.
   </p>
   <div class="clear"></div>
 </div>
 
 
-## Clinical and Neuropsychology
+## Clinical Neuropsychology
 
 ### Neuropsychology
 * Neuropsychological Evaluations, including:
