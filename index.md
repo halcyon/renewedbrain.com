@@ -5,7 +5,7 @@ layout: default
 <div class="about-dr-lacy">
   <img src="images/rachel-lacy.jpg">
   <p>
-    Dr. Lacy is a licensed psychologist board certified in clinical neuropsychology. She is trained in working
+    Dr. Lacy is a licensed psychologist, board certified in clinical neuropsychology. She is trained in working
     with people who have acquired brain injuries, dementia, learning disabilities, ADHD, chronic pain,
     chronic medical conditions, and various psychological disorders.
   </p>
