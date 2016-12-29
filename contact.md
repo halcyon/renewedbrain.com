@@ -144,8 +144,9 @@ her internship in neuropsychology and behavioral medicine at the
 University of Miami Medical School/ Jackson Memorial Hospital. Her two
 year post-doctoral residency was completed at The Center for Cognitive
 Rehabilitation in Decatur, Georgia under the supervision of the late Stephen
-J. Johnson, Ph.D., ABPP, and John R. Sass, Ph.D. Dr. Lacy is a member
-of the National Academy of Neuropsychology, American Academy of Clinical Neuropsychology, American Board of Professional Psychology,  and National Register of Health Service Providers.
+J. Johnson, Ph.D., ABPP, and John R. Sass, Ph.D. 
+
+Dr. Lacy is a member of the National Academy of Neuropsychology, American Academy of Clinical Neuropsychology, American Board of Professional Psychology, and National Register of Health Service Providers.
 
 #### National Register of Health Service Providers
 * [National Register](http://www.nationalregister.org)
