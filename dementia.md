@@ -17,8 +17,16 @@ as mentally sharp as we once were. The question arises if we need to be
 concerned about Dementia. There are a number of different kinds of dementia, 
 or what people used to call "senility". Dementia is a disease of the central
 nervous system that basically reduces brain functioning gradually over
-time. Dementias include Alzheimer's, Vascular Dementia, Frontotemporal Dementia, 
-Parkinson’s, Creutzfeld-Jacob, Lewy Body, and other degenerative diseases of the brain. 
+time. 
+Dementias include 
+*Alzheimer's 
+*Vascular Dementia 
+*Frontotemporal Dementia
+*Parkinson’s
+*Creutzfeld-Jacob 
+*Lewy Body 
+*and other degenerative diseases of the brain. 
+
 The most familiar type of dementia is Alzheimer’s dementia. The main characteristic of 
 Alzheimer’s is gradual loss of short term memory, but other things can also be
 affected. The person can have problems making decisions, paying bills,
