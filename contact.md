@@ -127,16 +127,15 @@ weight: 6
 
 ### Office Hours are Monday through Thursday 10 am to 6 pm
 
-* Neuropsychological and behavioral medicine services are offered to adults and adolescents
-* Psychotherapy for psychiatric disorders is offered to individuals age 16 and older
+* Neuropsychological assessment and behavioral medicine services are offered to adults and adolescents age 12 and older
 
 ## Insurance
 * Medicare
 * Tricare
 
-### Rachel Lacy, Psy.D., ABPP
+### Rachel Lacy, Psy.D., ABPP-CN
 
-Dr. Lacy’s credentials include a Master’s in Guidance and Counseling
+Dr. Lacy’s credentials include a Master’s degree in Guidance and Counseling
 from the University of Georgia, and Master’s and Doctoral degrees in
 Clinical Psychology from Georgia School of Professional
 Psychology. She received specialized training in neuropsychological
@@ -144,12 +143,9 @@ assessment from Emory Center for Rehabilitation Medicine and completed
 her internship in neuropsychology and behavioral medicine at the
 University of Miami Medical School/ Jackson Memorial Hospital. Her two
 year post-doctoral residency was completed at The Center for Cognitive
-Rehabilitation in Decatur, Georgia under the supervision of Stephen
+Rehabilitation in Decatur, Georgia under the supervision of the late Stephen
 J. Johnson, Ph.D., ABPP, and John R. Sass, Ph.D. Dr. Lacy is a member
-of the American Psychological Association, National Academy of
-Neuropsychology, International Neuropsychological Society, American
-Academy of Pain Management, and National Register of Health Service
-Providers.
+of the National Academy of Neuropsychology, American Academy of Clinical Neuropsychology, American Board of Professional Psychology,  and National Register of Health Service Providers.
 
 #### National Register of Health Service Providers
 * [National Register](http://www.nationalregister.org)
