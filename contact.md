@@ -148,6 +148,8 @@ J. Johnson, Ph.D., ABPP, and John R. Sass, Ph.D.
 
 Dr. Lacy is a member of the National Academy of Neuropsychology, American Academy of Clinical Neuropsychology, American Board of Professional Psychology, and National Register of Health Service Providers.
 
+#### WE LOOK FORWARD TO SERVING YOU!
+
 ![waiting room](../images/waiting-room.jpg)
 
 #### National Register of Health Service Providers
