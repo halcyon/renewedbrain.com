@@ -32,3 +32,5 @@ layout: default
 ### Psychology
 * Psychological Evaluations
 * Stress Reduction / Relaxation Training
+
+![office](../images/office.jpg)
