@@ -4,7 +4,7 @@ title: Services
 permalink: /services/
 weight: 1
 ---
-![testing-room](../images/testing-room.jpg)
+![testingroom](../images/testing-room.jpg)
 
 Dr. Lacy offers a variety of assessments for a wide range of problems. 
 Her primary specialty is in Neuropsychology, the study of the
