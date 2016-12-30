@@ -19,7 +19,8 @@ or what people used to call "senility". Dementia is a disease of the central
 nervous system that basically reduces brain functioning gradually over
 time. 
 
-Dementias include 
+Dementias include:
+
 * Alzheimer's 
 * Vascular Dementia 
 * Frontotemporal Dementia
