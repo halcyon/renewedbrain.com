@@ -56,29 +56,27 @@ problems, co-occur in 70% of the individuals who have ADHD.  It is
 important to determine where the thinking process is inefficient so
 that the right course of treatment can be recommended. Stimulant
 medications help only individuals who truly have ADHD, and they
-generally increase the ability to focus. However, they do not "fix" the 
-other issues of executive functions, such as planning and decision making. 
+generally increase the ability to focus. However, they do not "fix"
+other issues in executive functions, such as planning and decision making. 
 Strategies often need to be learned to help the person work around their weak areas, which vary 
 depending on the individual. Testing is crucial in identifying a person’s strengths, as
-well as their weaknesses, so that they may build on their strengths to
+well as their weaknesses, so that they may learn skills in order to
 succeed in school and in life. If the problem is not ADHD, but anxiety
 or depression, different medications and treatment options would be
-recommended to address the issue. In the case of other learning
-disorders, stimulant medications would not be useful, but tutoring and
-cognitive rehabilitation in  areas of weakness can make a huge impact.
+recommended. In the case of other learning disorders, stimulant medications would not be 
+useful, but tutoring and cognitive rehabilitation in  areas of weakness can make a huge impact.
 
 If you or your teen has a learning problem, the information you would
 learn through testing and cognitive rehabilitation would be invaluable
 to you in terms of ensuring success. Even if your child has been
-tested in elementary school, their brains have developed since then.
-Re-testing in middle school and high school is important to document
-the changes in development and identify new areas of strength and
-weakness. For teens and college students, such testing is required in
-order to gain assistance from the college’s Learning Centers. The
+tested in elementary school, their brains have developed more since then and 
+changes have likely occurred. Re-testing in middle school and high school is important to document 
+new areas of strength and weakness. For teens and college students, such testing is required in
+order to gain assistance from college Learning Centers. The
 Board of Regents states on their web site what documentation is required 
 for a college student to receive additional time for tests, tutoring, and
 other accommodations needed to optimize learning. Testing must be
-current to obtain Learning Center services. For more information on
+current (within 3 years) to obtain Learning Center services. For more information on
 learning disabilities and testing for ADHD for teens and adults,
 contact our office.
 
