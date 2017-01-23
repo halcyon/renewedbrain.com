@@ -95,7 +95,7 @@ issues. Testing is for anyone who believes that they have a problem in their thi
 
 ### What does neuropsychological testing involve?
 
-Testing usually takes 4-6 hours, sometimes more, depending on the problem. The first hour is
+Testing usually takes 4-6 hours, sometimes more, depending on the issue. The first hour is
 an interview with the patient and any family members that may be able
 to provide additional information about the patient’s history. You
 will be asked extensive questions about your symptoms, medical history, psychiatric and 
