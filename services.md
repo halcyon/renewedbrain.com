@@ -4,6 +4,7 @@ title: Services
 permalink: /services/
 weight: 1
 ---
+
 ![brain art](../images/brain-art.jpg)
 
 Dr. Lacy offers a variety of assessments for a wide range of problems.  Her primary specialty is in neuropsychology, the study of the relationship between the brain and behavior. Conditions that would fall under the category of neuropsychology include: brain injury, stroke, tumors, seizures, hydrocephalus, Parkinson’s, Alzheimer’s, learning disabilities, ADHD, and other neurological conditions.  
