@@ -75,6 +75,8 @@ struggled with problems in thinking most of their life.
 Neuropsychological testing is required in schools and colleges to receive 
 learning assistance for learning disabilities and ADHD. 
 
+![brain-hemisphere]! (../images/brainhemisphere.jpg)
+
 ### What is neuropsychological testing?
 
 Neuropsychology is the study of the relationship between the brain and
