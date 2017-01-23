@@ -9,15 +9,11 @@ weight: 3
 > "He has problems paying attention in school and at home. He doesn't
 > finish his homework unless I am over him the whole time, and then he
 > often forgets to turn it in. The teachers say he seems to be
-> daydreaming a lot and he talks too much in class. It's frustrating
-> because it is such a struggle to get him to do something he does not
-> want to do, but if it's something that interests him like video
-> games, he can do it all day!"
+> daydreaming a lot and he talks too much in class. I'm afraid that he is going to fail school and we want to help him succeed!"
 
-Attention Deficit Hyperactivity Disorder is a widely used term in
-schools and homes to describe people who have problems paying
-attention. However, ADHD is a condition that includes more than just
-paying attention. The area of that is affected by ADHD is responsible for everything 
+Attention Deficit Hyperactivity Disorder is a widely used term in to describe people who have problems paying
+attention. However, ADHD is a condition that includes more than just paying attention. 
+The area of the brain that is affected by ADHD is responsible for everything 
 from planning, organizing, judgment and decision making, which are all problematic
 for the person who has ADHD.
 
@@ -65,6 +61,9 @@ succeed in school and in life. If the problem is not ADHD, but anxiety
 or depression, different medications and treatment options would be
 recommended. In the case of other learning disorders, stimulant medications would not be 
 useful, but tutoring and cognitive rehabilitation in  areas of weakness can make a huge impact.
+
+
+**It is important to note that most insurances do not pay for learning disability testing, though they may pay for ADHD testing.**
 
 If you or your teen has a learning problem, the information you would
 learn through testing and cognitive rehabilitation would be invaluable
