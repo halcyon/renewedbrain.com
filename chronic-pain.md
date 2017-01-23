@@ -5,7 +5,7 @@ permalink: /chronic-pain/
 weight: 5
 ---
 
-![man with back pain](.../images/backpain.png)
+![man with back pain](.../images/backpain.jpg)
 
 Your pain is not in your head. You did not want this experience and you would do anything to reduce the pain. Your pain management physician offers you the option of a spinal cord stimulator or morphine pain pump. So, why do you need to see a psychologist?
 
