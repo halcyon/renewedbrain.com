@@ -5,13 +5,13 @@ permalink: /dementia/
 weight: 4
 ---
 ![Woman suffering from dementia](../images/woman-with-dementia.jpg)
-<p>
+
 > "She doesn’t remember as well as she used to. She can remember things
 > that happened long ago, but not what happened yesterday. She’ll ask
 > me the same question several times a day, sometimes after only five
 > minutes. She gets lost in the grocery store. I’ve noticed this
 > has been getting worse over the past two years."
-<p>
+
 
 As we age, our thinking skills change and we realize that we are not
 as mentally sharp as we once were. The question arises if we need to be 
