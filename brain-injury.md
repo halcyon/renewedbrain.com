@@ -7,6 +7,8 @@ weight: 2
 
 ![Man suffering from a brain injury](../images/brain-injury-man.png)
 
+
+
 >"He doesn’t seem to be the same person. He forgets things, gets confused, 
 >and he's more irritable. He can't stand noise or being in crowds.
 >His sleeping and eating habits have changed. It takes him much
