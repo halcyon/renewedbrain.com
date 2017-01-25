@@ -32,6 +32,7 @@ layout: default
 
 ### Psychology
 * Psychological Evaluations
+* PTSD evaluations
 * Stress Reduction / Relaxation Training
 
 ![office](../images/office.jpg)
