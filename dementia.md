@@ -13,21 +13,20 @@ weight: 4
 > has been getting worse over the past two years."
 
 
-As we age, our thinking skills change and we realize that we are not
+As we age, our thinking skills gradually diminish and we realize that we are not
 as mentally sharp as we once were. The question arises if we need to be 
-concerned about Dementia. There are a number of different kinds of dementia, 
+concerned about dementia. There are a number of different kinds of dementia, 
 or what people used to call "senility". Dementia is a disease of the central
-nervous system that basically reduces brain functioning gradually over
-time. 
+nervous system that reduces brain functioning gradually over time. 
 
 Dementias include:
 
 * Alzheimer's 
 * Vascular Dementia 
 * Frontotemporal Dementia
-* Parkinson’s
-* Creutzfeld-Jacob 
+* Parkinson’s 
 * Lewy Body 
+* HIV/ AIDS Related Dementia
 * and other degenerative diseases of the brain. 
 
 The most familiar type of dementia is Alzheimer’s dementia. The main characteristic of 
@@ -35,20 +34,17 @@ Alzheimer’s is gradual loss of short term memory, but other things can also be
 affected. The person can have problems making decisions, paying bills,
 finding their way around, recalling names, finding the right word to
 say, controlling or showing emotions, or remembering how to do
-things. Often the early signs of dementia look like depression and a
-person may be sent for neuropsychological testing to determine which
-diagnosis is the most accurate. It is important to diagnose
-Alzheimer’s early because there are helpful treatments that can improve daily functioning, 
-though there is no way to slow the progression of the disease and there is no cure.
+things. Often the early signs of dementia look like depression or anxiety, which can also mimic dementia. 
+It is important to diagnose dementia early because there are helpful treatments that can improve 
+daily functioning, though there is no way to slow the progression of the disease or to cure it. 
 
-Another term that is being used more frequently is Mild Cognitive
-Impairment, or MCI. Individuals with MCI have a decrease in one or
-more areas of thinking, but the decrease is not significant enough to
-be diagnosed as a dementia. This is a crucial time to diagnose
+Some patients do not yet have dementia, but are diagnosed with Mild Cognitive Impairment (MCI).
+Individuals with MCI have a decrease in one or more areas of thinking, but the decrease is 
+not significant enough to be diagnosed as a dementia. This is a critical time to diagnose
 problems with thinking and memory, because it is currently believed
 that the earlier a person receives treatment, the better the chance
 that the patient will remain independent for a longer period of time.
-If you have a concern that your thinking skills are not as good as they once were,
+If you have concerns that your thinking skills are not as good as they once were,
 and you are worried that the changes are not just a part of normal
 aging, then you may want to ask us about neuropsychological
 testing. If you would like to set an appointment contact our office.
