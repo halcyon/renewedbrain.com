@@ -1,4 +1,4 @@
-s---
+---
 layout: page
 title: Brain Injury
 permalink: /brain-injury/
