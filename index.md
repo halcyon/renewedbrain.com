@@ -35,4 +35,6 @@ layout: default
 * PTSD evaluations
 * Stress Reduction / Relaxation Training
 
-![office](../images/office.jpg)
+![AllanLondon](../images/AllanLondon.jpg)
+
+-Artist, Allen London, Brain Injury Peer Visitor
