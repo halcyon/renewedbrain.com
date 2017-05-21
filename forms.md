@@ -6,7 +6,7 @@ weight: 7
 ---
 ## New Patient Forms
 * [New Patient](new-patient.pdf)
-* [Therapist-Patient Service Agreement](service-agreement.pdf)
+* [Therapist Patient Service Agreement](service-agreement.pdf)
 * [What to Bring to First Visit](what-to-bring-to-first-visit.pdf)
 
 ## Testing Questionnaires
