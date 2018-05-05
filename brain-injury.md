@@ -63,7 +63,7 @@ injury (if possible), and is often repeated at the 1 year and 2 year marks to do
 the patient’s progress and residual deficits.
 
 Testing also helps determine if a person is able to return to work or school, and identify any 
-accomodations that need to be in place to help them succeed. 
+accommodations that need to be in place to help them succeed. 
 
 ![brain hemisphere](../images/brain-hemispheres.jpg)
 
@@ -90,7 +90,7 @@ unless your insurance requires it, such as with Tricare.
 ### What does neuropsychological testing involve?
 
 Testing usually takes 4-6 hours, sometimes more, depending on the issue. The first hour 
-is an interview with the patient and any family  members that may be ableto provide additional 
+is an interview with the patient and any family  members that may be able to provide additional 
 information about the patient’s history. You will be asked extensive questions about your symptoms, 
 medical history, psychiatric and social history. The remainder of the day will be spent testing 
 the various functions of the brain through different kinds of tasks to see how well you perform. 
