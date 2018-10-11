@@ -17,3 +17,6 @@ Psychological testing is also offered, including “fitness for duty” evaluati
 Chronic pain evaluations and brief psychotherapy are offered for patients who are seeking surgical interventions for pain relief.  Patients with chronic headaches, back pain, orthopedic pain, and nerve pain can receive brief therapy to learn pain management techniques.  Though your pain is real and physical, psychological factors play a key role in your tolerance for pain and level of daily functioning.  Psychological testing is  provided as part of the pre-surgical screening required by insurance companies for spinal cord stimulators and intrathecal morphine pumps.
 
 Dr. Lacy strives to provide accurate and objective assessments, as well as practical recommendations to help patients receive the best treatment possible.
+
+****COMING SOON****
+Therapists at Rachel Lacy, Psy.D., P.C. provide general psychotherapy for anxiety, depression, and bipolar disorder, as well as chronic pain psychotherapy and cognitive rehabilitation. We are accepting new patients and will be posting profiles of our new therapists soon! Stay tuned!!
