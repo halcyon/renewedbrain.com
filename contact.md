@@ -132,6 +132,8 @@ weight: 6
 ## Insurance
 * Medicare
 * Tricare
+* VA
+* Workers' Comp
 
 ### Rachel Lacy, Psy.D., ABPP-CN
 
