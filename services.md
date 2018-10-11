@@ -8,7 +8,7 @@ weight: 1
 
  Dr. Lacy offers a variety of assessments for a wide range of problems.  Her primary specialty is in neuropsychology, the study of the relationship between the brain and behavior. Conditions that would fall under the category of neuropsychology include: brain injury, stroke, tumors, seizures, hydrocephalus, Parkinson’s, Alzheimer’s, learning disabilities, ADHD, dementia, and other neurological conditions.  Services provided include neuropsychological testing, education, and cognitive rehabilitation to improve thinking skills.
  
-Pilots are often referred by the FAA for neuropsychological testing, which may range from a simple interview and Cogscreen-AE evaluation to a full neuropsychological battery. Dr. Lacy is trained in Cogscreen-AE administration and interpretation. All FAA referrals, including evaluations for the HIMS treatment program, are accepted. 
+Dr. Lacy is an Aviation Psychologist. Pilots are often referred by the FAA for neuropsychological testing, which may range from a simple interview and Cogscreen-AE evaluation to a full neuropsychological battery. Dr. Lacy is trained in Cogscreen-AE administration and interpretation. All FAA referrals, including evaluations for the HIMS treatment program, are accepted. 
 
 Psychological testing is also offered, including “fitness for duty” evaluations, military evaluations, adoptions, and personality assessments as an adjunct to psychotherapy.  Individuals can be referred by other psychologists, psychiatrists, counselors, physicians, adoption agencies, or employment agencies for psychological testing.
 
