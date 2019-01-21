@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Forms
+title: Therapists
 permalink: /therapists/
 weight: 6
 ---
