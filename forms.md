@@ -2,7 +2,7 @@
 layout: page
 title: Forms
 permalink: /forms/
-weight: 7
+weight: 8
 ---
 ## New Patient Forms
 * [New Patient Packet](new-patient-packet-hr.pdf)
