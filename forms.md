@@ -5,10 +5,10 @@ permalink: /forms/
 weight: 8
 ---
 ## New Patient Forms
-* [New Patient Packet](new-patient-packet-hr.pdf)
+* [New Patient Packet](new-patient-packet-hr.pdf) 
 * [What to Bring to First Visit](what-to-bring-to-first-visit-2019.pdf)
-* [NFL BAP Consent Forms Packet](Consent-nfl-bap-packet-2019.pdf)
-* [FAA Evaluation Consent Forms](faa-consent-form-2019.pdf)
+* [NFL BAP Consent Forms Packet](Consent-nfl-bap-packet-2019.pdf) Only for Retired NFL Players
+* [FAA Evaluation Consent Forms](faa-consent-form-2019.pdf) Only for Pilots
 
 ## Testing Questionnaires
 * [Adult Questionnaire](adult-questionnaire-2019.pdf)
