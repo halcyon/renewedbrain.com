@@ -17,8 +17,8 @@ weight: 8
 * [Teen Questionnaire Self Report](teen-questionnaire-self-report-2019.pdf)
 
 ## Release for Medical Records
-* [Release of Information](release-of-information-hr-2019.pdf)
+* [Release of Information](release-of-information-hr-2019.pdf) Complete a Separate One for Each Doctor 
 
 ##  Telemental Health Consent
-* [Consent for Video/Phone Sessions] (telemental-health-consent-form.pdf)
+* [Consent for Video/Phone Sessions](telemental-health-consent-form.pdf)
 
