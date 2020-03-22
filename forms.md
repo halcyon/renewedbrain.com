@@ -21,4 +21,3 @@ weight: 8
 
 ##  Telemental Health Consent
 * [Consent for Video/Phone Sessions](telemental-health-consent-form.pdf)
-
