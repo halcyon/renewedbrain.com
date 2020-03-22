@@ -18,3 +18,7 @@ weight: 8
 
 ## Release for Medical Records
 * [Release of Information](release-of-information-hr-2019.pdf)
+
+##  Telemental Health Consent
+* [Consent for Video/Phone Sessions] (telemental-health-consent-form.pdf)
+
