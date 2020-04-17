@@ -73,10 +73,10 @@ Neuropsychological testing helps us to understand how the brain is functioning.
 CT and MRI scans usually can identify if there are structural changes in the brain. 
 These are ordered by neurologists and physicians. Though usefull, such scans cannot 
 describe how well a person's brain is functioning. Neuropsychological evaluations are 
-pencil and paper tasks or computer assessments that challenge a person’s abilities in 
+pencil and paper tasks, or computer assessments that challenge a person’s abilities in 
 all areas of thinking. Neuropsychological testing is more thorough than 
-psychological or even psychoeducational testing in that it goes beyond assessing personality, 
-intelligence and academic functioning to include all areas of cognitive functioning.
+psychological, or even psychoeducational testing, in that it goes beyond assessing personality, 
+intelligence, and academics to include all areas of cognitive functioning.
 
 ### Is neuropsychological testing right for you?
 
@@ -85,7 +85,8 @@ different diagnoses, and they are understandably confused. Neuropsychological te
 helps to clarify the issues underlying the patient's problems, whether it is related to injuries 
 or diseases of the brain, medication side effects, medical problems, chronic pain factors, or 
 emotional issues. You do not need a referral for neuropsychological testing, 
-unless your insurance requires it, such as with Tricare. 
+unless your insurance requires it, such as with Tricare or Medicare. 
+Testing may need pre-authorization from your insurance company.  
 
 ### What does neuropsychological testing involve?
 
