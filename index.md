@@ -8,6 +8,9 @@ layout: default
     Dr. Lacy is a licensed psychologist, board certified in clinical neuropsychology. She is trained in working
     with people who have acquired brain injuries, ADHD, learning disabilities, dementia, chronic pain,
     chronic medical conditions, and various psychological disorders.
+    
+    
+   **** DURING THE COVID-19 OUTBREAK, WE ARE OFFERING ONLINE THERAPY SESSIONS AND INITIAL CONSULTS FOR TESTING, AS WELL AS SOME LIMITED PSYCHOLOGICAL EVALUATIONS. NEUROPSYCHOLOGICAL TESTING MUST BE DONE IN PERSON AND EVALUATIONS ARE BEING SCHEDULED CURRENTLY FOR THE SUMMER OF 2020****
   </p>
   <div class="clear"></div>
 </div>
@@ -32,8 +35,9 @@ layout: default
 
 ### Psychology
 * Psychological Evaluations
-* PTSD evaluations
+* PTSD Evaluations and Treatment
 * Stress Reduction / Relaxation Training
+* Telemental Health- Video Sessions
 
 ![AllanLondon](../images/AllanLondon.jpg)
 
