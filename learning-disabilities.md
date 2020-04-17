@@ -65,7 +65,7 @@ useful, but tutoring and cognitive rehabilitation in areas of weakness can make 
 Testing is offered for teens 12 and older, including adults. If you or your teen has a learning problem, 
 the information you would learn through testing would be invaluable
 to you. Even if your child has been tested in elementary school, their brains have developed more 
-since then, especially if they received tutoring. For High School Seniors and college students, such testing 
+since then, especially if they received tutoring. For high school seniors and college students, such testing 
 is required in order to obtain assistance from college Learning Centers. On their website, The Georgia
 Board of Regents states what documentation is required for a college student to receive additional time
 for tests, tutoring, and other accommodations needed to optimize learning. Testing must be
