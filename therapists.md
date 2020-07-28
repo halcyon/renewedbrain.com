@@ -10,7 +10,7 @@ Brief and long term therapy are offered for issues including life transistions, 
 
 ## Jennifer Chance Dalton, M.A., LAPC
 <div class="about-jennifer-dalton">
-  <img src="../images/jennifer-dalton.jpg">
+  <img src="../images/jennifer-dalton-vertical.jpg">
   <p>
     Jennifer Chance-Dalton, MA, LAPC is a licensed professional counselor. Jennifer graduated
     from Liberty University with a Bachelor of Science degree in Psychology and a Master of Arts
