@@ -5,7 +5,7 @@ layout: default
 <div class="about-dr-lacy">
   <img src="images/rachel-lacy.jpg">
   <p>Dr. Lacy is a licensed psychologist, board certified in clinical neuropsychology. She is trained in working with people who have acquired brain injuries, ADHD, learning disabilities, dementia, chronic pain, chronic medical conditions, and various psychological disorders.</p>
-  <p><b>**** DURING THE COVID-19 OUTBREAK, WE ARE OFFERING ONLINE THERAPY SESSIONS AND INITIAL CONSULTS FOR TESTING, AS WELL AS SOME LIMITED PSYCHOLOGICAL EVALUATIONS. NEUROPSYCHOLOGICAL TESTING MUST BE DONE IN PERSON AND EVALUATIONS ARE BEING SCHEDULED CURRENTLY FOR THE BEGINNING OF 2021. CHANGES MAY OCCUR DEPENDING TO THE STATUS OF THE COVID-19 PANDEMIC ****</b></p>
+ 
   <p>We use <a href="https://doxy.me">doxy.me</a>, an encrypted website for video sessions. Call us for video appointments at 770-722-7827. Dr. Lacy's video link is <a href="https://doxy.me/drrlacy">https://doxy.me/drrlacy</a>. Counselor Jennifer Dalton's video link is <a href="https://doxy.me/jenniferdaltonlapc">https://doxy.me/jenniferdaltonlapc</a>.</p>
   <div class="clear"></div>
 </div>
