@@ -34,11 +34,17 @@ This is an all day evaluation from 9 am to 5 pm. Another day of 1-2 hours of tes
  If you are driving in from another city or state, it is strongly recommended you spend the night in a nearby hotel so you do not have to deal with Atlanta traffic on your day of testing and you obtain a full night’s sleep. 
     
 If you are undergoing testing for an ADHD diagnosis,  then you MUST have a physician order a urine drug screen at the end of your testing day or within 24 hours of completing the evaluation. DR. LACY IS NOT AN MD AND CANNOT ORDER THIS TEST! 
+
 If you do not have your orders written for your drug screen in advance of your appointment, then you will most likely not complete your testing in one day and it will be noted in your report that you were not prepared.  If you cannot get your order for your drug screen order written by the day of your evaluation, then we cannot perform the evaluation. 
+
 There are labs nearby and your appointment has to be after testing and not before. Dr. Lacy must receive a copy of this to send with her report to the FAA.       The test MUST include amphetamine and methylphenidate as part of the drug panel. 
-    - If testing takes you two days, then drug testing must occur after each day.  (2 drug tests)
-    - Not all labs do drug testing!!!  You must make these arrangements in advance!
-    - Drug testing labs nearby: Labcorp in Lawrenceville: last appt. taken is 4:30 pm (770-962-4847- walk-ins allowed) Quest  in Lawrenceville (470-403-6095; stops all drug testing by noon) Healthstreet- healthstreet.net (no doctor order needed, patient schedules online, tests are more expensive.)
+
+    A. If testing takes you two days, then drug testing must occur after each day.  (2 drug tests)
+    B. Not all labs do drug testing!!!  You must make these arrangements in advance!
+    C. Drug testing labs nearby: 
+    Labcorp in Lawrenceville: last appt. taken is 4:30 pm (770-962-4847- walk-ins allowed) 
+    Quest  in Lawrenceville (470-403-6095; stops all drug testing by noon) 
+    Healthstreet- healthstreet.net (no doctor order needed, patient schedules online, tests are more expensive.)
 
 ***STEP SIX: Provide all of the following:***
 
