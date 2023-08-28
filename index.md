@@ -4,9 +4,9 @@ layout: default
 
 <div class="about-dr-lacy">
   <img src="images/rachel-lacy.jpg">
-  <p>Dr. Lacy is a licensed psychologist, board certified in clinical neuropsychology. She is trained in working with people who have acquired brain injuries, ADHD, learning disabilities, dementia, chronic pain, chronic medical conditions, and various psychological disorders.</p>
+  <p>Dr. Lacy is a licensed psychologist, board certified in clinical neuropsychology. She is trained in working with people who have acquired brain injuries, ADHD, learning disabilities, dementia, chronic pain, chronic medical conditions, PTSD and various psychological disorders.</p>
  
-  <p>We use <a href="https://doxy.me">doxy.me</a>, an encrypted website for video sessions. Call us for video appointments at 770-722-7827. Dr. Lacy's video link is <a href="https://doxy.me/drrlacy">https://doxy.me/drrlacy</a>. Counselor Jennifer Dalton's video link is <a href="https://doxy.me/jenniferdaltonlapc">https://doxy.me/jenniferdaltonlapc</a>.</p>
+  <p>We use <a href="https://doxy.me">doxy.me</a>, an encrypted website for video sessions. Call us for video appointments at 770-722-7827. Dr. Lacy's video link is <a href="https://doxy.me/drrlacy">https://doxy.me/drrlacy</a>. 
   <div class="clear"></div>
 </div>
 
