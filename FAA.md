@@ -16,7 +16,7 @@ Include your email and phone number so we can contact you with a quote and appoi
 If you wait until the latter half of your 60 or 90 day window, you will need to ask for an extension. We book fast and reports take time.
 
 ***STEP THREE: Complete FAA Release for Certified Medical Records***
-The FAA also requires that you complete a request for their certified file to be sent to Dr. Lacy. The information in your FAA certified medical file must be included for the report to be accepted.  If you have applied for your license or ever held a student or pilot license, the FAA has a medical file for you. If you were sent a letter, the FAA sent you the form that must be completed. We can also provide one for you. If you write "HUDDLE" next to Dr. Lacy's name, we will get the records more quickly in electronic form. The address for records to be sent to is: 
+The FAA also requires that you complete a request for your certified file to be sent to Dr. Lacy. The information in your FAA certified medical file must be included for the report to be accepted.  If you have applied for your license or ever held a student or pilot license, the FAA has a medical file for you. If you were sent a letter, the FAA sent you the form that must be completed. We can also provide one for you. If you write "HUDDLE" next to Dr. Lacy's name, we will get the records more quickly in electronic form. The address for records to be sent to is: 
 
 Rachel Lacy, Psy.D., ABPP-CN (huddle)
 PO Box 58
@@ -25,6 +25,7 @@ Flowery Branch, GA 30542
 ***STEP FOUR: Complete Office Paperwork Sent to You in Advance of Your Appointment***
 
 Dr. Lacy’s office will send you the initial paperwork for the evaluation to your email address via a website called DOCHUB, which allows you to complete and sign forms online.  You will be completing that form, as well as:
+
 	1) a release of information to the FAA                          2) a release of information to your AME
 	
 ***STEP FIVE:  Arrange for an Entire Day of Testing***
@@ -41,8 +42,11 @@ If you do not have your orders written for your drug screen in advance of your a
 There are labs nearby and your appointment has to be after testing and not before. Dr. Lacy must receive a copy of this to send with her report to the FAA.       
 	
  	A. The test MUST include amphetamine and methylphenidate as part of the drug panel. 
+  
 	B. If testing takes you two days, then drug testing must occur after each day.  (2 drug tests)
+ 
  	C. Not all labs do drug testing!!!  You must make these arrangements in advance!
+  
   	D. Drug testing labs nearby: 
    	 Labcorp in Lawrenceville: last appt. taken is 4:30 pm (770-962-4847- walk-ins allowed) 
    	 Quest  in Lawrenceville (470-403-6095; stops all drug testing by noon) 
