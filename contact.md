@@ -125,14 +125,14 @@ weight: 7
   </div>
 </div>
 
-### Office Hours are Monday through Thursday 10 am to 6 pm
+### Office Hours are Tuesday, Wednesday, and Friday 9 am to 5 pm
 
 * Neuropsychological assessment and behavioral medicine services are offered to adults and adolescents age 12 and older
 
 ## Insurance
 * Medicare
 * Tricare
-* VA
+* Aetna
 * Workers' Comp
 
 ### Rachel Lacy, Psy.D., ABPP-CN
