@@ -8,7 +8,7 @@ weight: 6
 If you are a pilot or applying for your pilot’s license and have been diagnosed with certain conditions in the past, or used specific medications, then the FAA will require you to have a neuropsychological evaluation to assess your cognitive and emotional functioning. The FAA has a different set of tests required for each group of applicants, so the amount of time required and cost varies depending on the referral question. 
 
 ALL evaluations require an interview and the COGSCREEN-AE, as well as a review of applicable medical records, your academic records, driving records, information from family members, and possibly your flight instructor, employer, or other individual familiar with your abilities. 
- <img src="images/image_0626.jpg">
+ <img src="images/IMG_0626.jpg">
 
 ***STEP ONE:     Fax or email your FAA letter in its entirety to Dr. Lacy***
 Fax:  770-760-0624, Email: drrlacy@mdofficemail.com 
