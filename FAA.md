@@ -11,11 +11,12 @@ ALL evaluations require an interview and the COGSCREEN-AE, as well as a review o
  <img src="images/IMG_0626.jpg">
 
 ***STEP ONE:     Fax or email your FAA letter in its entirety to Dr. Lacy***
-Fax:  770-760-0624, Email: drrlacy@mdofficemail.com 
-Include your email and phone number so we can contact you with a quote and appointment openings
+Fax:  770-760-0624, Email:drrlacy@mdofficemail.com 
+Include your email and phone number so we can contact you with a quote and appointment openings.
+IF YOUR EVALUATION IS FOR ADHD....you must send ALL of your records that you have gathered for your AME and send them to Dr. Lacy PRIOR to scheduling your appointment. This is a new change per FAA policies dated 8/30/23. When you email your letter, we will email you a checklist of all of the documents required. Dr. Lacy must review your records prior to scheduling an appointment so that the proper evaluation can be performed. 
 
 ***STEP TWO: 	Schedule your evaluation as soon as you know you need one!*** 
-If you wait until the latter half of your 60 or 90 day window, you will need to ask for an extension. We book fast and reports take time.
+If you wait until the latter half of your 60 or 90 day window, you will need to ask for an extension. We book fast and reports take time. 
 
 ***STEP THREE: Complete FAA Release for Certified Medical Records***
 The FAA also requires that you complete a request for your certified file to be sent to Dr. Lacy. The information in your FAA certified medical file must be included for the report to be accepted.  If you have applied for your license or ever held a student or pilot license, the FAA has a medical file for you. If you were sent a letter, the FAA sent you the form that must be completed. We can also provide one for you. If you write "HUDDLE" next to Dr. Lacy's name, we will get the records more quickly in electronic form. The address for records to be sent to is: 
