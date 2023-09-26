@@ -12,25 +12,25 @@ layout: default
 <p>Dr. Lacy is on Medicare, Tricare, and Aetna insurance panels and accepts Worker's Compensation- Georgia Fee Schedule. All other patients would be out of network and self pay. We will provide paperwork for you to file your own claim. FAA evaluations and fitness for duty evaluations are always self pay as insurance does not pay for these evaluations.</p>
 
 ### Neuropsychology
-* Neuropsychological Evaluations, including:
-  * Worker's Compensation
-  * Vocational Rehabilitation
-  * Independent Medical Evaluations
-  * Personal Injury Litigation Cases
-  * FAA Evaluations, including COGSCREEN-AE
-* ADHD and Learning Disability Evaluations
-* Dementia Evaluations
-* Cognitive Rehabilitation
+- Neuropsychological Evaluations, including:
+  - Worker's Compensation
+  - Vocational Rehabilitation
+  - Independent Medical Evaluations
+  - Personal Injury Litigation Cases
+  - FAA Evaluations, including COGSCREEN-AE
+- ADHD and Learning Disability Evaluations
+- Dementia Evaluations
+- Cognitive Rehabilitation
 
 ### Behavioral Medicine
-* Pre-surgical Psychological Evaluations
-* Brief Pain Management Coping Skills Training
+- Pre-surgical Psychological Evaluations
+- Brief Pain Management Coping Skills Training
 
 ### Psychology
-* Psychological Evaluations
-* PTSD Evaluations and Treatment
-* Stress Reduction / Relaxation Training
-* Telemental Health- Video Sessions
+- Psychological Evaluations
+- PTSD Evaluations and Treatment
+- Stress Reduction / Relaxation Training
+- Telemental Health- Video Sessions
 
 ![AllanLondon](../images/AllanLondon.jpg)
 
