@@ -11,8 +11,6 @@ layout: default
 </div>
 <p>Dr. Lacy is on Medicare, Tricare, and Aetna insurance panels and accepts Worker's Compensation- Georgia Fee Schedule. All other patients would be out of network and self pay. We will provide paperwork for you to file your own claim. FAA evaluations and fitness for duty evaluations are always self pay as insurance does not pay for these evaluations.</p>
 
-## Neuropsychology
-
 ### Neuropsychology
 * Neuropsychological Evaluations, including:
   * Worker's Compensation
