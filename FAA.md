@@ -29,7 +29,7 @@ Flowery Branch, GA 30542
 
 Dr. Lacy’s office will send you the initial paperwork for the evaluation to your email address via a website called DOCHUB, which allows you to complete and sign forms online.  You will be completing that form, as well as:
 
-	1) a release of information to the FAA   2) a release of information to your AME
+	1) a release of information to the FAA 2) a release of information to your AME
 	
 ***STEP FIVE:  Arrange for an Entire Day of Testing***
 
