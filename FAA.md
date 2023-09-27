@@ -44,13 +44,13 @@ If you do not have your orders written for your drug screen in advance of your a
 
 There are labs nearby and your appointment has to be after testing and not before. Dr. Lacy must receive a copy of this to send with her report to the FAA.       
 	
- 	A. The test MUST include amphetamine and methylphenidate as part of the drug panel. 
+ 	The test MUST include amphetamine and methylphenidate as part of the drug panel. 
   
-	B. If testing takes you two days, then drug testing must occur after each day.  (2 drug tests)
+	If testing takes you two days, then drug testing must occur after each day.  (2 drug tests)
  
- 	C. Not all labs do drug testing!!!  You must make these arrangements in advance!
+ 	Not all labs do drug testing!!!  You must make these arrangements in advance!
   
-  	D. Drug testing labs nearby: 
+  	Drug testing labs nearby: 
    	 Labcorp in Lawrenceville: last appt. taken is 4:30 pm (770-962-4847- walk-ins allowed) 
    	 Quest  in Lawrenceville (470-403-6095; stops all drug testing by noon) 
    	 Healthstreet- healthstreet.net (no doctor order needed, patient schedules online, tests are more expensive.)
