@@ -17,7 +17,6 @@ layout: default
 ### Neuropsychology
 * Neuropsychological Evaluations, including:
  * Worker's Compensation
-   * Vocational Rehabilitation
  * Independent Medical Evaluations
  * Personal Injury Litigation Cases
  * FAA Evaluations, including COGSCREEN-AE
